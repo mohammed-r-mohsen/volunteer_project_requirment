@@ -1,0 +1,25 @@
+Student requirements: 
+
+that the site be quick to respond in the event of a request being submitted, so that there are always problems waiting for a request or the unavailability of a specific place to volunteer
+
+Owner requirements: 
+
+that the system be easy to use and explain the methods of submitting the application so that he does not want any explanation + that the whole system is an independent system in itself from any other system, whether in the form or even in the way it deals with the student
+
+Developer requirements: 
+
+that there should be freedom of access to all parts of the system through a single developer assigned to the system development stage, meaning that this may take us to develop a system to make the freedom of developers in the system more independent of the system + that there are developers with powers
+
+Visitor requirements: 
+
+that the site be clearly defined in terms of registering a new organization, and that it is not complicated to use
+
+Institutions’ requirements:
+
+ the possibility of controlling the organization’s upcoming volunteer messages or requests at some point in time + the possibility of adding the organization’s employees to the site so that they can monitor the requests or volunteering operations of the organization
+
+ University requirements: 
+ 
+ that the site is integrated or does not contain login screens because it will enter the university system
+
+ This information has been extracted from real users of each type of user of the system
