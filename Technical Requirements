@@ -1,0 +1,46 @@
+Accessibility :
+
+Any student at the Islamic University can deal with the system through his personal page or any employee of the concerned institutions that cooperate with the Islamic University
+
+
+Authentication and authorization: 
+
+The student must be registered at the university in order to be able to enter the system
+So that the student enters the system through his personal page
+And not with a new entry system, and also the employee who works in the institution must
+To enter through his account in the institution or through the account of the institution
+
+Availability : 
+
+The system is available throughout the year, except for maintenance times, which will be at night times only
+
+data quality : 
+
+The data is taken from the databases of the Islamic University
+
+internal controls : 
+
+No person shall have the right to enter the system except for the sole administrator of the system and any other person who has been granted access to the system or information. There is the possibility of adding a new administrator with certain powers
+
+interoperability : 
+
+
+The ability of all users to deal with the system anywhere or any technology they can access the system taking into account the efficiency of the technologies
+
+maintainability : 
+
+Periodic maintenance of the system and segmented
+
+performance : 
+
+Currently in the project development stage for the first time, we cannot give or specify a specific efficiency
+However, it occurs at an advanced stage of the project
+
+Privacy : 
+
+User data such as passwords cannot be accessed by anyone, but the administrator can find out the general information such as the location of the specialized residence, phone number, etc.
+
+System errors : 
+
+Does not display any explicit system error, the errors operating system will show previous or specific pages of the system, but if the error time is long, the error statement will be explicitly displayed
+
